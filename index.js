@@ -1,2 +1,5 @@
-alert("hello")
-console.log("hello user!")
+let name = "piyush rawat";
+console.log(name);
+alert('hello user!')
+
+
