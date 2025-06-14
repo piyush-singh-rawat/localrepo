@@ -8,7 +8,8 @@
 body{
     margin: 0;
     padding: 0;
-    background-color: black;
+    background-image: url('resources/bg2.jpg');
+    background-size: cover;
 }
 
 .para1{
@@ -34,8 +35,10 @@ body{
 }
 
 li{
-    padding: 10px 50px;
-    margin: 0 2px;
+    padding: 0.5% 2.2%;
+    margin-top: 0.7%;
+    margin-bottom: 0.5%;
+    margin-left: 02%;
     cursor: pointer;
 }
 
